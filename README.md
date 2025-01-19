@@ -21,13 +21,11 @@
 
 
 ### Main Window
-![Main Window]
 ![Screenshot 2025-01-19 133430](https://github.com/user-attachments/assets/587a8c6b-6758-4228-a99a-b358d0dd51db)
 
 
 
 ### Responsive Layout
-![Responsive Layout]
 ![Screenshot 2025-01-19 133307](https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07)
 
 
