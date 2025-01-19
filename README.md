@@ -1,6 +1,6 @@
 # Travel.2Ro - Romania Travel Guide
 
-**Travel.2Ro** is my first website, developed during my high school years. It serves as a comprehensive guide for exploring Romania, helping travelers plan their trips with ease.
+**Travel.2Ro** is my first website, developed in high school. It serves as a comprehensive guide for exploring Romania, helping travelers easily plan their trips.
 
 ## Key Features
 
@@ -12,9 +12,6 @@
 
 - **User-Friendly Design**:
   - An intuitive interface for smooth navigation and a seamless user experience.
-
-- **Interactive Community**:
-  - Explore and contribute to enhance the travel experience for others!
 
 ---
 
