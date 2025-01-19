@@ -26,7 +26,11 @@
 <br><br>
 
 ### Responsive Layout
-![Screenshot 2025-01-19 133307](https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07)![Screenshot 2025-01-19 133916](https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37)
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07" alt="Responsive Layout iPhone" width="45%">
+  <img src="https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37" alt="Responsive Layout Desktop" width="45%">
+</div>
 
 
 ---
