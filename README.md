@@ -1,5 +1,5 @@
 # Travel.2Ro - Romania Travel Guide
-This repository contains the source code for Travel.2Ro, a website that offers comprehensive information about accommodation options and interesting places to visit in Romania. The site is designed to help travelers plan their trips with ease, from finding lodging to discovering must-see destinations.
+A website that offers comprehensive information about accommodation options and interesting places to visit in Romania. The site is designed to help travelers plan their trips with ease, from finding lodging to discovering must-see destinations.
 
 Key features:
 
