@@ -34,7 +34,7 @@
   </div>
   <div>
     <h4>Desktop View</h4>
-    <img src="https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37" alt="Desktop View" width="400">
+    <img src="https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37" alt="Desktop View" width="600">
   </div>
 </div>
 
