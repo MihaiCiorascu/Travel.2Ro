@@ -30,7 +30,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
   <div>
     <h4>Mobile View</h4>
-    <img src="https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07" alt="Mobile View" width="400">
+    <img src="https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07" alt="Mobile View" width="250">
   </div>
   <div>
     <h4>Desktop View</h4>
