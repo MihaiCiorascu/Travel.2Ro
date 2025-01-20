@@ -28,10 +28,10 @@
 ### Responsive Layout
 
 #### Mobile View
-![Mobile View](https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07)
+<img src="https://github.com/user-attachments/assets/e679a38b-92dd-4a07-b884-9917c5ca4d07" alt="Mobile View" width=300>
 
 #### Desktop View
-![Desktop View](https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37)
+<img src="https://github.com/user-attachments/assets/902efdd9-afe0-49c5-a244-85f922d91a37" alt="Desktop View" width=300>
 
 
 
