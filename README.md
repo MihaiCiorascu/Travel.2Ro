@@ -21,7 +21,7 @@
 
 
 ### Main Window
-![Screenshot 2025-01-19 133430](https://github.com/user-attachments/assets/587a8c6b-6758-4228-a99a-b358d0dd51db)
+<img src="https://github.com/user-attachments/assets/587a8c6b-6758-4228-a99a-b358d0dd51db" width="600">
 
 <br><br>
 
